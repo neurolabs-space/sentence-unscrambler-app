@@ -9,6 +9,13 @@ Welcome to the **Sentence Unscrambler App**, a drag-and-drop learning tool desig
 - Enhances cognitive skills through structured puzzles
 - Tracks mastery and progress in real time
 
+  ##  🎥 Watch & Listen
+  - [How to Create Interactive Classroom Games from Any Text | A Full SlideW Tutorial](https://www.youtube.com/watch?v=H8AeMd5Cjo4)
+A deep-dive tutorial from Neurolabs showing how to turn any lesson, text, or PDF into a dynamic learning game using Slidew. Perfect for educators who want to build custom sentence unscramblers in minutes.
+
+- [How to Gamify Your Lessons (Our Podcast Guide to Slidew)](https://www.youtube.com/watch?v=cWhCYEiKdBQ)
+This podcast-style guide breaks down the pedagogy and design thinking behind Slidew. Great for teachers, edtech enthusiasts, and anyone curious about gamified learning
+
 ## 🔍 SEO Keywords
 
 `sentence unscrambler`, `syntax learning tool`, `bilingual education`, `interactive classroom app`, `Montreal edtech`, `cognitive learning`, `drag and drop UI`, `neurolabs`, `stem education`
